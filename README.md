@@ -49,7 +49,7 @@ footer {
 <body>
 
 <header>
-  <img src="profile.jpg" alt="My Photo">
+  <img src="1769515750994.jpg " alt="My Photo">
   <h1>Jun Fred Cenabre</h1>
   <p>BSIT Student | Web Developer</p>
 </header>
