@@ -1,5 +1,4 @@
 
-
 <html>
 <head>
 <title>My Portfolio</title>
@@ -12,7 +11,7 @@ body {
 }
 
 header {
-  background:#333;
+  background: #333;
   color: white;
   text-align: center;
   padding: 30px;
@@ -22,7 +21,7 @@ header img {
   width: 120px;
   height: 120px;
   border-radius: 50%;
-  border: 4px solid #333;
+  border: 4px solid white;
 }
 
 section {
@@ -47,6 +46,7 @@ footer {
 </style>
 </head>
 <body>
+
 
 <header>
   <img src="1769515750994.jpg " alt="My Photo">
