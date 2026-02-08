@@ -22,7 +22,7 @@ header img {
   width: 120px;
   height: 120px;
   border-radius: 50%;
-  border: 4px solid white;
+  border: 4px solid blue;
 }
 
 section {
@@ -59,15 +59,6 @@ footer {
   <p>Hello! I am an IT student.</p>
 </section>
 
-<section>
-  <h2>My Skills</h2>
-  <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>Java</li>
-    <li></li>
-  </ul>
-</section>
 
 
 <section>
