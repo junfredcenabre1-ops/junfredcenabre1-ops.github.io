@@ -12,7 +12,7 @@ body {
 }
 
 header {
-  background🫐;
+  background:blue green;
   color: white;
   text-align: center;
   padding: 30px;
@@ -22,7 +22,7 @@ header img {
   width: 120px;
   height: 120px;
   border-radius: 50%;
-  border: 4px solid blue;
+  border: 4px solid gray;
 }
 
 section {
