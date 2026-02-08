@@ -51,12 +51,12 @@ footer {
 <header>
   <img src="1769515750994.jpg " alt="My Photo">
   <h1>Jun Fred Cenabre</h1>
-  <p>BSIT Student | Web Developer</p>
+  <p>BSIT Student From BCC</p>
 </header>
 
 <section>
   <h2>About Me</h2>
-  <p>Hello! I am an IT student and I love coding and making systems.</p>
+  <p>Hello! I am an IT student.</p>
 </section>
 
 <section>
@@ -65,23 +65,15 @@ footer {
     <li>HTML</li>
     <li>CSS</li>
     <li>Java</li>
-    <li>Python</li>
+    <li></li>
   </ul>
 </section>
 
-<section>
-  <h2>My Projects</h2>
-  <ul>
-    <li>Online Enrollment System</li>
-    <li>Inventory System</li>
-    <li>Capstone Project</li>
-  </ul>
-</section>
 
 <section>
   <h2>Contact Me</h2>
-  <p>Email: junfred@gmail.com</p>
-  <p>Facebook: fb.com/junfred</p>
+  <p>Email: junfredcenabre1@gmail.com</p>
+  <p>Facebook: Jun Fred Anunciado Cenabre</p>
 </section>
 
 <footer>
